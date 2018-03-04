@@ -1,0 +1,11 @@
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\bin\Debug\netcoreapp2.0\TeamX.Security.API.deps.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\bin\Debug\netcoreapp2.0\TeamX.Security.API.runtimeconfig.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\bin\Debug\netcoreapp2.0\TeamX.Security.API.runtimeconfig.dev.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\bin\Debug\netcoreapp2.0\TeamX.Security.API.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\bin\Debug\netcoreapp2.0\TeamX.Security.API.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.csproj.CoreCompileInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.AssemblyInfoInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.AssemblyInfo.cs
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.API\obj\Debug\netcoreapp2.0\TeamX.Security.API.csprojResolveAssemblyReference.cache

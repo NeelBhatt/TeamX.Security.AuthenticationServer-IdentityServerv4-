@@ -1,0 +1,11 @@
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\bin\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.deps.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\bin\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.runtimeconfig.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\bin\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.runtimeconfig.dev.json
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\bin\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\bin\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.csprojResolveAssemblyReference.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.AssemblyInfoInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.AssemblyInfo.cs
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\TeamX.Security.Authentication\TeamX.Security.SimpleClient\obj\Debug\netcoreapp2.0\TeamX.Security.SimpleClient.pdb

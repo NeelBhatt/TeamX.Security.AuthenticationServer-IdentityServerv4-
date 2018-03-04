@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamX.Security.AuthServer", "TeamX.Security.AuthServer\TeamX.Security.AuthServer.csproj", "{26296110-6DB5-47A2-B8A2-96A97DA56476}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamX.Security.MVCClient", "TeamX.Security.SimpleClient\TeamX.Security.MVCClient.csproj", "{5F8C534D-F97E-4F20-ADA1-7B8693D9A489}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamX.Security.API", "TeamX.Security.API\TeamX.Security.API.csproj", "{EF9EB75C-C2E9-44F9-B0D8-4314D1F75C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamX.Security.Client", "TeamX.Security.Client\TeamX.Security.Client.csproj", "{0BF922E4-FDDA-467D-AEFA-6822D4FF0C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26296110-6DB5-47A2-B8A2-96A97DA56476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26296110-6DB5-47A2-B8A2-96A97DA56476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26296110-6DB5-47A2-B8A2-96A97DA56476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26296110-6DB5-47A2-B8A2-96A97DA56476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8C534D-F97E-4F20-ADA1-7B8693D9A489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8C534D-F97E-4F20-ADA1-7B8693D9A489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8C534D-F97E-4F20-ADA1-7B8693D9A489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8C534D-F97E-4F20-ADA1-7B8693D9A489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9EB75C-C2E9-44F9-B0D8-4314D1F75C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9EB75C-C2E9-44F9-B0D8-4314D1F75C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9EB75C-C2E9-44F9-B0D8-4314D1F75C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9EB75C-C2E9-44F9-B0D8-4314D1F75C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF922E4-FDDA-467D-AEFA-6822D4FF0C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF922E4-FDDA-467D-AEFA-6822D4FF0C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF922E4-FDDA-467D-AEFA-6822D4FF0C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF922E4-FDDA-467D-AEFA-6822D4FF0C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CC15EF-4222-4D0E-9924-2C37CBC089BE}
+	EndGlobalSection
+EndGlobal
