@@ -14,6 +14,8 @@ namespace TeamX.Security.AuthServer
     {
         public static void Main(string[] args)
         {
+            Console.Title = "Auth Server";
+
             BuildWebHost(args).Run();
         }
 

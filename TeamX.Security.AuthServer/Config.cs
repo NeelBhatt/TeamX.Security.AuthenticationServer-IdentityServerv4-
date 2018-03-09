@@ -5,10 +5,10 @@ namespace TeamX.Security.AuthServer
 {
     public class Config
     {
-        // clients want to access resources (aka scopes)
+        // clients that are allowed to access resources from the Auth server 
         public static IEnumerable<Client> GetClients()
         {
-            // client credentials client
+            // client credentials, list of clients
             return new List<Client>
             {
                 new Client
@@ -16,6 +16,7 @@ namespace TeamX.Security.AuthServer
                     ClientId = "client",
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
 
+                    // Client secrets
                     ClientSecrets =
                     {
                         new Secret("secret".Sha256())
@@ -25,6 +26,7 @@ namespace TeamX.Security.AuthServer
             };
         }
 
+        // API that are allowed to access the Auth server
         public static IEnumerable<ApiResource> GetApiResources()
         {
             return new List<ApiResource>
